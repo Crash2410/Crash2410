@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi, my name is **Artem Kholod**!
+## I'm a begginer *Front-End Developer*.
+
+## Languages and Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-090909?style-for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-090909?style-for-the-badge&logo=html5)
+![css](https://img.shields.io/badge/CSS-090909?style-for-the-badge&logo=css3)
 
 <!--
 **Crash2410/Crash2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
