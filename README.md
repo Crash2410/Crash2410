@@ -9,6 +9,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3)
 ![SCSS](https://img.shields.io/badge/SCSS-090909?style=for-the-badge&logo=sass)
+![GIT](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git)
+![NPM](https://img.shields.io/badge/NPM-090909?style=for-the-badge&logo=npm)
 ### :email:Mail: artem.xolod.90@gmail.com and artem.kholod.90@yandex.ru
 ### :globe_with_meridians:Social Network: [Telegram](https://t.me/AKH0LOD); [LinkedIn](https://www.linkedin.com/in/artemkholod/) 
 ### :mortar_board: Licenses and certificates: 
