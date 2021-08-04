@@ -15,6 +15,7 @@
 ### :globe_with_meridians:Social Network: [Telegram](https://t.me/AKH0LOD); [LinkedIn](https://www.linkedin.com/in/artemkholod/) 
 ### :mortar_board: Licenses and certificates: 
 ### [Udemy: Практический JavaScript (Продвинутый уровень)](https://www.udemy.com/certificate/UC-705cb47f-5188-45e4-bfd6-af8eccfa585c/);
+### [Udemy: Полный курс по JavaScript + React - с нуля до результата](https://www.udemy.com/certificate/UC-e3f7d921-5f2f-463b-8e36-ddc52a4ed485/);
 ### [FreeCodeCamp: JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/crash7/javascript-algorithms-and-data-structures);
 
 <!--
