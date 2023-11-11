@@ -5,11 +5,15 @@
 
 ### :books:Languages and Technologies:
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React)
+![NextJS](https://img.shields.io/badge/Next_JS-090909?style=for-the-badge&logo=NextJS)
 ![Redux](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=Redux)
+![typescript](https://img.shields.io/badge/typescript-090909?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-090909?style=for-the-badge&logo=tailwindcss)
 ![HTML5](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3)
 ![SCSS](https://img.shields.io/badge/SCSS-090909?style=for-the-badge&logo=sass)
+![material-ui](https://img.shields.io/badge/material_UI-090909?style=for-the-badge&logo=material-ui)
 ![GIT](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git)
 ![NPM](https://img.shields.io/badge/NPM-090909?style=for-the-badge&logo=npm)
 ### :email:Mail: artem.xolod.90@gmail.com and artem.kholod.90@yandex.ru
