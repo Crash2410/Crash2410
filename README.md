@@ -1,9 +1,9 @@
 # :wave:Hi, my name is **Artem Kholod**!
-## I'm a begginer *Front-End Developer*.
+## I'm a *Front-End Developer*.
 
 
 
-### :books:Languages and Technologies:
+### 📘:Languages and Technologies:
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React)
 ![NextJS](https://img.shields.io/badge/Next_JS-090909?style=for-the-badge&logo=NextJS)
 ![Redux](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=Redux)
@@ -16,9 +16,9 @@
 ![material-ui](https://img.shields.io/badge/material_UI-090909?style=for-the-badge&logo=material-ui)
 ![GIT](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git)
 ![NPM](https://img.shields.io/badge/NPM-090909?style=for-the-badge&logo=npm)
-### :email:Mail: artem.xolod.90@gmail.com and artem.kholod.90@yandex.ru
-### :globe_with_meridians:Social Network: [Telegram](https://t.me/AKH0LOD); [LinkedIn](https://www.linkedin.com/in/artemkholod/) 
-### :mortar_board: Licenses and certificates: 
+### 📧:Mail: artem.xolod.90@gmail.com and artem.kholod.90@yandex.ru
+### 🌐:Social Network: [Telegram](https://t.me/AKH0LOD); [LinkedIn](https://www.linkedin.com/in/artemkholod/) 
+### 🎓: Licenses and certificates: 
 ### [Udemy: Практический JavaScript (Продвинутый уровень)](https://www.udemy.com/certificate/UC-705cb47f-5188-45e4-bfd6-af8eccfa585c/);
 ### [Udemy: Полный курс по JavaScript + React - с нуля до результата](https://www.udemy.com/certificate/UC-e3f7d921-5f2f-463b-8e36-ddc52a4ed485/);
 ### [FreeCodeCamp: JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/crash7/javascript-algorithms-and-data-structures);
