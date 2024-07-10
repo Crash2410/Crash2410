@@ -17,7 +17,7 @@
 ![GIT](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git)
 ![NPM](https://img.shields.io/badge/NPM-090909?style=for-the-badge&logo=npm)
 ### 📧:Mail: artem.xolod.90@gmail.com and artem.kholod.90@yandex.ru
-### 🌐:Social Network: [Telegram](https://t.me/AKH0LOD); [LinkedIn](https://www.linkedin.com/in/artemkholod/) 
+### 🌐:Social Network: [Telegram](https://t.me/AKH0LOD); 
 ### 🎓: Licenses and certificates: 
 ### [Udemy: Практический JavaScript (Продвинутый уровень)](https://www.udemy.com/certificate/UC-705cb47f-5188-45e4-bfd6-af8eccfa585c/);
 ### [Udemy: Полный курс по JavaScript + React - с нуля до результата](https://www.udemy.com/certificate/UC-e3f7d921-5f2f-463b-8e36-ddc52a4ed485/);
